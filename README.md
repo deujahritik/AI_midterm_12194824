@@ -1,1 +1,4 @@
-# AI_midterm_12194824
+# AI_midterm_Assignment
+
+## Name:Deuja Ritik
+## Student_ID:12194824
