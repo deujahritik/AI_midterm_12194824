@@ -33,7 +33,7 @@
 
 ## 3.Week_5_lecture
 
-*• Meaning of Tensorflow*
+*• Meaning of Tensorflow which is w is a library based on Python that provides different types of functionality for deep learning models.*
 
 *• Computational graph*
 
@@ -55,6 +55,7 @@
 
 
 ## 4.Week_7_lecture
+*• Pytorch: PyTorch is a system for executing dynamic computational graphs over Tensor objects that behave similarly as numpy ndarray. It comes with a powerful automatic differentiation engine that removes the need for manual back-propagation.*
 
 *• Convolutional Neural Networks*
 
