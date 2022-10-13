@@ -18,17 +18,17 @@
 
 ## 2.Week_4_lecture
 
-*•Introduction to Datasets used when training networks*
+*• To Introduce  Datasets used when training networks.*
 
-*•Extending the network and learning algorithm to do multiclass classification*
+*• To Extend the network and learn how algorithm  do multiclass classification.*
 
-*•Network for Digit Classification*
+*• Use of Network for Digit Classification.*
 
-*•Loss Function for Multiclass Classification*
+*• Loss Function for Multiclass Classification.*
 
-*•Programming Example: Classifying handwritten Digits*
+*• Programming Example: Classifying handwritten Digits.*
 
-*• Mini-Batch gradient descent*
+*• Mini-Batch gradient descent.*
  
 
 ## 3.Week_5_lecture
@@ -46,7 +46,8 @@
 *• `tf.summary.histogram` command*
 
 ## 3.Week_6_lecture
-*• Linear Regression using TensorFlow*
+
+*• To learn Linear Regression using TensorFlow*
 
 *• Visualization of Linear Regression parameters using TensorFlow*
 
