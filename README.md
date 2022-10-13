@@ -8,7 +8,7 @@
 
 # Objectives of course:
 
-## 1.Week_4_lecture
+## 1.Week_3_lecture
 
 *• To Get Started with Google Colab.*
 
@@ -16,7 +16,7 @@
 
 *• At last, Importing Kaggle’s dataset and operating Basic Files.*
 
-## 2.Week_5_lecture
+## 2.Week_4_lecture
 
 *•Introduction to Datasets used when training networks*
 
@@ -31,7 +31,41 @@
 *• Mini-Batch gradient descent*
  
 
+## 3.Week_5_lecture
+
+*• Meaning of Tensorflow*
+
+*• Computational graph*
+
+*• Variables, Constants and Placeholders in TensorFlow*
+
+*• Tensorboard visualization*
+
+*• `tf.summary.scalar` command*
+
+*• `tf.summary.histogram` command*
+
 ## 3.Week_6_lecture
+*• Linear Regression using TensorFlow*
+
+*• Visualization of Linear Regression parameters using TensorFlow*
+
+*• Digit Classification | Neural network to classify MNIST dataset using TensorFlow*
 
 
 ## 4.Week_7_lecture
+
+*• Convolutional Neural Networks*
+
+*• The CIFAR-10 Dataset*
+
+*• Characteristics and building blocks for convolutional layers*
+
+*• Combining feature maps into a convolutional layer*
+
+*• Combining convolutional and fully connected layers into a network*
+
+*• Effects of sparse connections and weight sharing*
+
+*• Image classification with a convolutional network*
+
