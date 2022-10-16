@@ -5,8 +5,15 @@
 3.Course: AI Application System
 4.Course Code: ISE4132
 ```
+# Course Objectives:
+```
+- Practice ROS/ROS2 python/C++ client library: Creating your own ROS/2 C++/Python programs
+- Practice the recent simulating tool with ROS: RVIZ, RQT, Gazebo simulator
+- Familiarize the student with the recent machine learning project with ROS/ROS2
+- Familiarize the student with the recent Autonomous Vehicle project with ROS/ROS2
+```
 
-# Objectives of course:
+# Course Goals:
 
 ## 1.Week_3_lecture
 
