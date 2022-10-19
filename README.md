@@ -7,9 +7,9 @@
 ```
 # University Honor Code!!!
 
-*By signing this pledge, I promise to adhere to exam requirements*
+*"By signing this pledge, I promise to adhere to exam requirements*
 
-*and maintain the highest level of ethical principles during the exam period.*
+*and maintain the highest level of ethical principles during the exam period."*
 
 # Course Objectives:
 ```
