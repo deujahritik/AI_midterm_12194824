@@ -6,9 +6,9 @@
 4.Course Code: ISE4132
 ```
 # University Honor Code!!!
-```
-By signing this pledge, I promise to adhere to exam requirements and maintain the highest level of ethical principles during the exam period.
-```
+
+*By signing this pledge, I promise to adhere to exam requirements and maintain the highest level of ethical principles during the exam period.*
+
 # Course Objectives:
 ```
 - Practice ROS/ROS2 python/C++ client library: Creating your own ROS/2 C++/Python programs
