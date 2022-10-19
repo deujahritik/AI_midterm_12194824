@@ -29,6 +29,8 @@
 
 *• At last, Importing Kaggle’s dataset and operating Basic Files.*
 
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_3_lab_Intro.ipynb
+
 ## 2.Week_4_lecture
 
 *• To Introduce  Datasets used when training networks.*
@@ -43,6 +45,7 @@
 
 *• Mini-Batch gradient descent.*
  
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_4_lab_Intro1.ipynb
 
 ## 3.Week_5_lecture
 
@@ -58,6 +61,8 @@
 
 *• `tf.summary.histogram` command*
 
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_5_lab_Intro_to_Colab.ipynb
+
 ## 3.Week_6_lecture
 
 *• To learn Linear Regression using TensorFlow*
@@ -65,6 +70,10 @@
 *• Visualization of Linear Regression parameters using TensorFlow*
 
 *• Digit Classification | Neural network to classify MNIST dataset using TensorFlow*
+
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_Session2.ipynb
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorflow.ipynb
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_6_lab_tensorflow_excercise_2_.ipynb
 
 
 ## 4.Week_7_lecture
@@ -83,6 +92,8 @@
 *• Effects of sparse connections and weight sharing*
 
 *• Image classification with a convolutional network*
+
+https://github.com/deujahritik/AI_midterm_12194824/blob/main/Week_7_lab_session.ipynb
 ```
 Midterm Assignment.
 Prof. Mehdi Pirahandeh
