@@ -83,4 +83,7 @@
 *• Effects of sparse connections and weight sharing*
 
 *• Image classification with a convolutional network*
-
+```
+Midterm Assignment.
+Prof. Mehdi Pirahandeh
+```
